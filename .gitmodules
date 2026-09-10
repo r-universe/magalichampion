@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "GADAG"]
 	path = GADAG
-	url = https://github.com/cran/GADAG
+	url = https://github.com/magalichampion/gadag
